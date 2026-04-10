@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area, US",
+  "export_job_id": "24603734-87a1-4527-b193-5357811f0e23",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 122647,
+  "location_name": "Virginia Beach-Chesapeake-Norfolk, VA-NC",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-virginia-beach-chesapeake-norfolk-va-nc-sample-122647",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/122647/beamstation_122647_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
+  "sample_pct": 1.31,
+  "sample_records": 10,
+  "sample_sha256": "fcc1dacf5607af95183277d83ac2382503745879384431760ff90457d8160483",
+  "sample_size_bytes": 55942,
+  "total_records": 761,
+  "updated_at": "2026-03-31T23:58:08.321373+00:00"
+}
