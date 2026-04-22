@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c094c936-aef8-4122-8d20-b6867782533b",
+  "export_job_id": "5a224838-b3e9-400d-9437-12170356a7dd",
   "id_short": 122647,
-  "published_at": "2026-04-18T07:23:01Z",
+  "published_at": "2026-04-22T07:05:33Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-virginia-beach-chesapeake-norfolk-va-nc-sample-122647",
   "sample_asset_name": "beamstation_122647_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/122647/beamstation_122647_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
-  "sample_records": 88,
-  "sample_sha256": "a8167791273d9e0d0d66b8b94bfea74b54492aac5ab71337a550cc671cffac0e",
-  "sample_size_bytes": 373648,
-  "total_records": 887
+  "sample_records": 49,
+  "sample_sha256": "ac892cbed56ef47ee8ae0d18ca23e1c726d925d1a05b3ce75c235d5a7fdcc1fa",
+  "sample_size_bytes": 205658,
+  "total_records": 491
 }
