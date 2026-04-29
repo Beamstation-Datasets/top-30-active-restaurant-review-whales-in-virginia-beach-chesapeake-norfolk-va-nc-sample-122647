@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area, US
 
-> Free BeamStation sample export with 49 rows and masked direct-contact fields.
+> Free BeamStation sample export with 102 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `122647` |
 | Location | Virginia Beach-Chesapeake-Norfolk, VA-NC |
 | Category | Restaurants |
-| Full dataset size | 491 records |
-| Free sample size | 49 records (9.98%) |
-| Last export | 2026-04-22T06:13:05.277416+00:00 |
+| Full dataset size | 1,020 records |
+| Free sample size | 102 records (10.0%) |
+| Last export | 2026-04-29T08:25:05.810500+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-virginia-beach-chesapeake-norfolk-va-nc-sample-122647/releases/download/sample-latest/beamstation_122647_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
